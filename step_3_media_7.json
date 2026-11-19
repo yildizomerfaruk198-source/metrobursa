@@ -1,0 +1,6 @@
+{
+  "name": "Bursa Metro",
+  "description": "Bursa metro ve Bursaray hat yönetimi, istasyon kurma ve ulaşım ağı simülasyon oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
